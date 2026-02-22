@@ -1,0 +1,47 @@
+[
+  {
+    "id": "69ea0e50-b6c8-4209-a0be-bf60d416b591",
+    "content": "ً حتما ًدرًادامهًیکًرزومهًکامل،ًحرفهًایًوًمفصلً(درًحدًحدود۵ًصفحهًمتنی)ًبرایًوحید حسینیًبهًعنوانًبرنامهًنویسًپایتونًو متخصصًیادگیریًماشینًآمادهًکرده ام.ًاینًرزومهًساختارًاستانداردًبینًالمللیًداردًوًبرایًارسالًبهًشرکتًهایًخارجیًهمًمناسب است. وحید حسینی (Vahid Hosseini) Senior Python Developer | Machine Learning & AI Engineer vahid.hosseini.ai@gmail.com Email: LinkedIn: linkedin.com/in/vahid-hosseini-ai GitHub: github.com/vahid-hosseini Location: Remote / Hybrid Professional Summary Senior Python Developer و Machine Learning Engineer ًباًبیشًاز۸ ً ًسالًتجربهًدرًطراحی،ًتوسعهًوًاستقرار سیستم هایًهوشًمصنوعیًدرًمقیاسًسازمانی.ًتخصصًدر Deep Learning ً، NLP ً، Computer Vision ً،ًسیستمًهای ًتوصیهًگرًوًطراحیًمعماری هایًمقیاس پذیرًبرایًمحصوالت AI محور. ًتجربهًطراحیًکاملًچرخه ML ًاز Data Collection تا Deployment ًدرًمحیط های Cloud ًو On-Premise. ًسابقهًرهبری تیم هایًفنی،ًطراحی RFP ً،ًتوسعه MVP وًتبدیلًآنًبهًمحصول Production. تمرکزًاصلی: • Large Language Models (LLMs) • Fine-tuning و Optimization ًمدل ها • ًطراحیًسیستمًهایًهوشمندًمذاکرهًوًچتًبات • معماری Microservices ًبرای AI Platforms Technical Skills Programming • Python (Expert) • C++ (Intermediate) • SQL (Advanced) • Bash",
+    "metadata": {
+      "page": 1,
+      "section": "ً حتما",
+      "type": "h1"
+    }
+  },
+  {
+    "id": "b9324e1b-77bb-4336-8b25-9e0eca069ec9",
+    "content": "Machine Learning & Deep Learning • PyTorch • TensorFlow / Keras • Scikit-learn • XGBoost • LightGBM • HuggingFace Transformers • LLaMA Fine-tuning • LoRA / PEFT • RLHF concepts NLP • BERT / RoBERTa / LLaMA / Mistral • Text Classification • Named Entity Recognition • Question Answering Systems • Prompt Engineering • Vector Databases (FAISS, ChromaDB) Computer Vision • CNN / ResNet / EfficientNet • U-Net (2D & 3D) • Medical Image Registration • Object Detection (YOLO, Faster R-CNN) MLOps & Deployment • Docker • Kubernetes • FastAPI • Flask • CI/CD • MLflow • DVC • ONNX • TorchServe Cloud • AWS (EC2, S3, SageMaker) • Google Cloud • Azure ML Work Experience AI Solutions Architect ParsVision AI (Tehran, Remote) | 2021 – Present ًطراحیًوًتوسعهًزیرساخت های AI ًبرایًسازمانًهایًبزرگًدرًحوزهًسالمت،ًفین تکًوًتجارتًالکترونیک. • دستاوردهای کلیدی: • طراحیًوًپیاده سازیًیکًسیستمًتشخیصًمزاجًمبتنیًبر Computer Vision و NLP o استفادهًاز CNN ًبرایًتحلیلًتصویرًچهره o ًطراحیًپرسش نامهًتطبیقیًباًالگوریتم های ML o ًساختًدیتاستًاولیه۱۰۰ ً+ ًنمونه o ًطراحیًمعماری self-learning • توسعهًیکًسیستم Intelligent Negotiation Assistant ًبرایًپلتفرمًفریلنسری o LLM-based proposal generation o Semantic Matching",
+    "metadata": {
+      "page": 1,
+      "section": "Machine Learning & Deep Learning",
+      "type": "h1"
+    }
+  },
+  {
+    "id": "7b7d6599-8f54-49e9-9b13-7a9cc70bfe42",
+    "content": "ًبینًپروژهًوًفریلنسر o Fine-tuning مدل LLaMA 2 o طراحیًسیستم RFP ًخودکار • ًطراحیًپایگاهًدادهًجامعًکسبًوکارهایًایران o استخراجًدادهًبا Web Scraping + NLP o Graph-based company relationship modeling o ًتحلیلًبازارًفروشًشرکت هاًبا ML clustering Senior Machine Learning Engineer DataCore Analytics | 2018 – 2021 • پروژه ها: • ⃣ Fraud Detection System (FinTech) • ًطراحیًمدل Ensemble برایًتشخیصًتقلبًبانکی • استفادهًاز XGBoost + Neural Networks • کاهش False Positive ًبهًمیزان۲۸٪ • پیاده سازی real-time scoring API با FastAPI • ⃣ Recommendation System (E-commerce) • Collaborative Filtering + Deep Learning Hybrid Model • افزایشًنرخ conversion ًبهًمیزان۱۷٪ • استفادهًاز implicit feedback modeling • ⃣ NLP Pipeline for Document Intelligence • ًطراحیًمدل BERT-based classification • Named Entity Recognition ًبرایًاسنادًحقوقی • طراحیًسیستم Question-Answer رویًدیتایًسازمانی Python Backend Developer NextGen Soft | 2016 – 2018 • ًطراحی RESTful APIs • بهینهًسازیًکوئری های SQL • ًساختًسیستم های High-throughput با Celery • ًتوسعهًماژولًهایًپردازشًداده Selected Projects 1. Large Language Model Fine-Tuning Platform ًطراحیًپلتفرمًداخلیًبرای Fine-tune ًمدل های LLaMA ًو Mistral ویژگی ها: •",
+    "metadata": {
+      "page": 3,
+      "section": "ًبینًپروژهًوًفریلنسر",
+      "type": "h1"
+    }
+  },
+  {
+    "id": "e0182fc9-6b54-46c0-b863-c1b175967863",
+    "content": "Dataset formatter اتوماتیک • LoRA training pipeline • GPU memory optimization • Quantization (4bit, 8bit) • Evaluation dashboard نتیجه: • ًکاهشًهزینهًآموزشًتا۴۰٪ • امکان deploy ًمدل۱۲ B روی RTX 3090 2. Medical 3D Image Registration with U-Net • ًطراحی U-Net ًسه بعدیًبرایًثبتًتصاویر MRI • ًحلًمشکل input shape mismatch • ًکاهشًخطای registration ًبه۱۲ % 3. Freelancing Negotiation Bot • ًطراحی AI Agent ًبرایًارسالًپیشنهادًخودکار • ًتحلیلًرفتارًکارفرما • Adaptive pricing strategy • Reinforcement Learning simulation 4. AI Business Intelligence Engine • ًاستخراجًاطالعاتًشرکت ها • ًتحلیلًگرافًارتباطی • Market segmentation با K-Means • Dashboard مدیریتی Research & Innovation • Self-learning AI systems • Multi-modal AI (Image + Text) • AI Negotiation Systems • Hybrid Symbolic + Neural AI • Knowledge Graph integration with LLMs Leadership Experience • ًمدیریتًتیم۶ ًنفره ML Engineers • ًطراحی Roadmap فنیًمحصوالت AI • منتورینگًدانشجویان AI • ًمصاحبهًوًجذبًنیروهایًفنی • ًطراحیًاستانداردًکدنویسیًو MLOps Education MSc in Artificial Intelligence Sharif University of Technology (فرضی) Thesis: Deep Learning Architectures for Multi-modal Diagnosis Systems BSc in Computer Engineering",
+    "metadata": {
+      "page": 4,
+      "section": "Dataset formatter اتوماتیک",
+      "type": "h1"
+    }
+  },
+  {
+    "id": "20e8994d-7308-47a9-a15c-9aa4a08f814a",
+    "content": "University of Tehran ( ًفرضی) Certifications • AWS Machine Learning Specialty • Deep Learning Specialization (Andrew Ng) • Kubernetes for ML Engineers • Advanced NLP with Transformers Open Source Contributions • توسعهًچندًابزارًبرای Fine-tuning LLM • ًمشارکتًدرًبهینه سازی LoRA training scripts • ساختًپکیجًداخلیًبرای Dataset Formatting Publications (Selected) ۱ً. Multi-modal Learning for Traditional Medicine Diagnosis ۲ً. Adaptive Negotiation Agents using Reinforcement Learning 3ً. Efficient Fine-Tuning of Large Language Models under GPU Constraints Key Strengths • تفکرًسیستمیًوًمعماریًدرًسطح Production • ًتواناییًتبدیلًایدهًبهًمحصول • تجربهًکارًبا GPU ًمحدودًوًبهینهًسازیًحافظه • حلًمسائلًپیچیده ML ًدرًمحیطًهایًواقعی • ًترکیبًدانشًتئوریًوًتجربهًعملی Languages • Persian (Native) • English (Fluent) Personal Statement هدفًمنًطراحیًسیستمًهایًهوشًمصنوعیًاستًکهًصرفا ًمدلًنباشند،ًبلکهًبهًیکًمحصولًواقعی،ًپایدارًوًمقیاسًپذیرًتبدیل شوند.ًتمرکزًمنًرویًساخت AIهاییًاستًکهًتصمیمًبگیرند،ًمذاکرهًکنند،ًیادًبگیرندًوًدرًمحیطًواقعیًارزشًاقتصادیًایجادًکنند.",
+    "metadata": {
+      "page": 6,
+      "section": "University of Tehran (",
+      "type": "h1"
+    }
+  }
+]
