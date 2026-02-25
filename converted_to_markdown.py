@@ -10,6 +10,8 @@ MAX_CHUNK_CHARS = 1200  # مناسب embedding models
 
 
 def clean_text(text):
+    # حذف تنوین و کاراکترهای مشابه که جای فاصله را گرفتند
+    text = re.sub(r'[\u064B\u064C\u064D\u064E\u064F\u0650\u0651\u0652]', ' ', text)
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
